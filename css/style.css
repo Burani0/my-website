@@ -92,12 +92,21 @@ section{
 }
 
 .header .user img{
-    margin:1rem 0;
+    /* margin:1rem 0;
     border:1rem solid transparent;
     border-radius: 50%;
     height: 18rem;
-    width: 18rem;
-    box-shadow: var(--box-shadow);
+    width: 18rem; */
+
+    /* box-shadow: var(--box-shadow); */
+
+
+
+width: 150px; 
+height: 170px;
+object-fit: cover;
+border-radius: 50%;
+
 }
 
 .header .user h3{
