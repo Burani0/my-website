@@ -280,6 +280,11 @@ section{
     flex:1 1 40rem;
 }
 
+
+h2 span{
+    color:var(--green);
+}
+
 .about .row .progress h3{
     color:var(--black);
     font-weight: normal;
@@ -383,7 +388,7 @@ section{
 
 .portfolio .box-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(35rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(38rem, 1fr));
     gap:2rem;
 }
 
